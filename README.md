@@ -8,6 +8,7 @@
 * 문제 풀이
 * github 공유 repositoty에 코드 업로드  
 * 학습 내용 개인 velog 작성
+*블로그 및 기사 등 매체를 통한 기본 개발 소식 공유
 
 ## 스터디원
 
@@ -21,6 +22,6 @@
 ### 🔗 Velog
 
 이재엽 : https://velog.io/@yeopyeop00  
-이시형 :   
+이시형 : https://velog.io/@tlgud119/posts  
 이현철 : https://velog.io/@sevencomma  
 박대형 : https://velog.io/@d4eh0  
